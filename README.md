@@ -1,0 +1,4 @@
+- 👋 Hi, I’m YX
+- 👀 I’m interested in DeFi, Blockchain & AI
+- 🌱 I’m currently learning about Reinforcement Learning
+- 📫 How to reach me potatoshark1000@gmail.com
